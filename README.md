@@ -20,3 +20,4 @@ Exp.no: 2          Date: 23.1.2026
 6. Area and Circumference Function
 7. Factorial Recursion
 8. Fibonacci Recursion
+9. Total and Average of 6 Students using Function
