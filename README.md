@@ -17,3 +17,6 @@ Exp.no: 2          Date: 23.1.2026
 3. Reverse of a Number
 4. Palindrome or not
 5. Armstrong number
+6. Area and Circumference Function
+7. Factorial Recursion
+8. Fibonacci Recursion
