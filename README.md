@@ -21,3 +21,10 @@ Exp.no: 2          Date: 23.1.2026
 7. Factorial Recursion
 8. Fibonacci Recursion
 9. Total and Average of 6 Students using Function
+
+
+
+Exp.no: 3          Date: 24.1.2026
+1. Max and Min in an array
+2. Call by value and Call by reference example
+3. ...
