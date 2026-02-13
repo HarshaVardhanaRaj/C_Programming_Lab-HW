@@ -60,7 +60,8 @@ Exp.no: 6        Date: 13.1.2026
 6. String - strcmp
 7. String - strtok
 8. String - strncmp
-9. ...
+9. String - strchr
+10. ...
 
 
 
