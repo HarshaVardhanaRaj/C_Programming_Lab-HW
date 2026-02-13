@@ -17,14 +17,51 @@ Exp.no: 2          Date: 23.1.2026
 3. Reverse of a Number
 4. Palindrome or not
 5. Armstrong number
-6. Area and Circumference Function
-7. Factorial Recursion
-8. Fibonacci Recursion
-9. Total and Average of 6 Students using Function
 
 
 
-Exp.no: 3          Date: 24.1.2026
+Exp.no: 3          Date: 23.1.2026
 1. Max and Min in an array
 2. Call by value and Call by reference example
-3. ...
+3. Swapping 2 nos using f(x)
+4. Min and Max using f(x)
+5. Area and Circumference Function
+6. Factorial Recursion
+7. Fibonacci Recursion
+8. Total and Average of 6 Students using Function
+
+
+
+Exp.no: 4         Date: 30.1.2026
+1. Average of 3 Subjects
+2. Average age of 5 people
+3. 2x2 Matrix: Add, Mul and Transpose
+4. 10 Students, 5 Subjects details
+
+
+
+Exp.no: 5        Date: 6.1.2026
+1. Union
+2. Size of Union
+3. Structures
+4. Array of Structures
+5. Pointers & Structures
+6. Structures using Functions
+7. Nested Structures
+
+
+
+Exp.no: 6        Date: 13.1.2026
+1. String - length
+2. String - strcpy
+3. String - strncpy
+4. String - strcat
+5. String - strncat
+6. String - strcmp
+7. String - strtok
+8. String - strncmp
+9. ...
+
+
+
+
