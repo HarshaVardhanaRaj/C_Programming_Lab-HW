@@ -21,14 +21,14 @@ Exp.no: 2          Date: 23.1.2026
 
 
 Exp.no: 3          Date: 23.1.2026
-1. Max and Min in an array
-2. Call by value and Call by reference example
-3. Swapping 2 nos using f(x)
-4. Min and Max using f(x)
+1. Max and Min in an array *
+2. Call by value and Call by reference example *
+3. Factorial using Recursion *
+4. Fibonacci using Recursion *
 5. Area and Circumference Function
-6. Factorial Recursion
-7. Fibonacci Recursion
-8. Total and Average of 6 Students using Function
+6. Total and Average of 6 Students using Function
+7. Swapping 2 nos using f(x)
+8. Min and Max using f(x)
 
 
 
