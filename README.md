@@ -61,7 +61,11 @@ Exp.no: 6        Date: 13.1.2026
 7. String - strtok
 8. String - strncmp
 9. String - strchr
-10. ...
+10. String - strrchr
+11. String - strstr
+12. String - strspn
+13. String - strcspn
+14. String - strpbrk
 
 
 
