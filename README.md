@@ -40,7 +40,7 @@ Exp.no: 4         Date: 30.1.2026
 
 
 
-Exp.no: 5        Date: 6.1.2026
+Exp.no: 5        Date: 6.2.2026
 1. Union
 2. Size of Union
 3. Structures
@@ -51,7 +51,7 @@ Exp.no: 5        Date: 6.1.2026
 
 
 
-Exp.no: 6        Date: 13.1.2026
+Exp.no: 6        Date: 13.2.2026
 1. String - length
 2. String - strcpy
 3. String - strncpy
