@@ -69,4 +69,15 @@ Exp.no: 6        Date: 13.1.2026
 
 
 
+Exp.no: 7        Date: 20.2.2026
+
+1. Basic 
+2. pointer to pointer
+3. array of pointers
+4. pointer to functions
+5. pointer arithmetic
+6. pointer using arrays
+7. Strings
+
+
 
