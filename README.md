@@ -81,3 +81,14 @@ Exp.no: 7        Date: 20.2.2026
 
 
 
+C Programming Training
+1. Triangle Pattern 1
+2. Triangle Pattern 2
+3. Triangle Pattern 3
+4. Triangle Pattern 4
+5. Triangle Pattern 5
+6. Triangle Pattern 6
+7. Triangle Pattern 7
+8. Triangle Pattern 8
+9. Triangle Pattern 9
+10. Triangle Pattern 10
