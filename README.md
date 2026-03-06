@@ -81,7 +81,7 @@ Exp.no: 7        Date: 20.2.2026
 
 
 
-C Programming Training
+C Programming Training        Date: 6.3.2026
 1. Triangle Pattern 1
 2. Triangle Pattern 2
 3. Triangle Pattern 3
