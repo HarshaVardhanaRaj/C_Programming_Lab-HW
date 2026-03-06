@@ -92,3 +92,13 @@ C Programming Training        Date: 6.3.2026
 8. Triangle Pattern 8
 9. Triangle Pattern 9
 10. Triangle Pattern 10
+
+11. Type 2 Pattern 1
+12. Type 2 Pattern 2
+13. Type 2 Pattern 3
+14. Type 2 Pattern 4
+15. Type 2 Pattern 5
+16. Type 2 Pattern 6
+17. Type 2 Pattern 7
+18. Type 2 Pattern 8
+
