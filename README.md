@@ -102,3 +102,8 @@ C Programming Training        Date: 6.3.2026
 17. Type 2 Pattern 7
 18. Type 2 Pattern 8
 
+
+
+
+
+Array Implementation of Stack
