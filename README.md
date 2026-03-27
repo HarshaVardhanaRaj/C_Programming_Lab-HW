@@ -71,13 +71,42 @@ Exp.no: 6        Date: 13.2.2026
 
 Exp.no: 7        Date: 20.2.2026
 
-1. Basic 
+1. Basic program of pointers
 2. Pointer to pointer
 3. Array of pointers
 4. Pointer to functions
 5. Pointer arithmetic
 6. Pointer using arrays
 7. Strings
+
+
+
+
+Exp.no: 8        Date: 13.3.2026
+
+1. Linked List implementation of Stack
+2. Array implementation of Stack
+
+
+
+
+
+Exp.no: 9        Date: 20.3.2026
+
+1. Singly Linked List
+2. Doubly Linked List
+3. Circular Linked List
+
+
+
+
+
+Exp.no: 10        Date: 18.3.2026
+
+1. Array implementation of Queue
+2. Linked List implementation of Queue
+
+
 
 
 
