@@ -80,36 +80,7 @@ Exp.no: 7        Date: 20.2.2026
 7. Strings
 
 
-
-
-Exp.no: 8        Date: 13.3.2026
-
-1. Linked List implementation of Stack
-2. Array implementation of Stack
-
-
-
-
-
-Exp.no: 9        Date: 20.3.2026
-
-1. Singly Linked List
-2. Doubly Linked List
-3. Circular Linked List
-
-
-
-
-
-Exp.no: 10        Date: 18.3.2026
-
-1. Array implementation of Queue
-2. Linked List implementation of Queue
-
-
-
-
-
+________________________________________________________________________________________________________
 C Programming Training        Date: 6.3.2026
 1. Triangle Pattern 1
 2. Triangle Pattern 2
@@ -130,9 +101,36 @@ C Programming Training        Date: 6.3.2026
 16. Type 2 Pattern 6
 17. Type 2 Pattern 7
 18. Type 2 Pattern 8
+_______________________________________________________________________________________________________
 
 
 
+Exp.no: 8        Date: 13.3.2026
+
+1. Linked List implementation of Stack
+2. Array implementation of Stack
 
 
-Array Implementation of Stack
+
+Exp.no: 9        Date: 20.3.2026
+
+1. Singly Linked List
+2. Doubly Linked List
+3. Circular Linked List
+
+
+
+Exp.no: 10        Date: 18.3.2026
+
+1. Array implementation of Queue
+2. Linked List implementation of Queue
+
+
+
+Exp.no: 11        Date: 27.3.2026
+
+1. Linear Search
+2. Binary Search
+3. Bubble Sort
+4. Selection Sort
+5. Insertion Sort
